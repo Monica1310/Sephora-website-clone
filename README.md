@@ -1,5 +1,5 @@
 
- ## eBay Website Clone
+ ## Sephora Website Clone
  
 This is a clone of e-commerce website **Sephora**, an cosmetic website, where user can buy products provided with online payment services.
 
