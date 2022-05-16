@@ -1,7 +1,7 @@
 
  ## Sephora Website Clone
  
-This is a clone of e-commerce website **Sephora**, an cosmetic website, where user can buy products provided with online payment services.
+This is a clone of e-commerce website **Sephora**,a cosmetic website, where user can buy products provided with online payment services.
 
 
 ### Description
@@ -11,12 +11,12 @@ Implemented review product and buying functionalities with online payment option
 
 ### Functionalities are:
 
-* create account
+* Create account
 * Login
 * Different product pages 
 * Product description pages
-* add items to the cart
-* remove items from the cart
+* Add items to the cart
+* Remove items from the cart
 * Checkout
 
 ### Technologies Used
