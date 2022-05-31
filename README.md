@@ -58,5 +58,6 @@ Implemented review product and buying functionalities with online payment option
 ###### Checkout page
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/100186167/168545318-796397f1-8fc2-45ae-878e-d1b2cf6c6b52.png)
-[Deployed Link of website](https://sephora-website-clone.vercel.app/)
+[Deployed Link of website]
+(https://sephora-website-clone.vercel.app/)
 
